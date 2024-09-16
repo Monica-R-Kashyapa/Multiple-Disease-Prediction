@@ -46,3 +46,11 @@ Each model was tested for accuracy, precision, recall, and other performance met
 
 ## To Run this project use below command 
 - streamlit run "{path}"\multiple disease pred.py
+
+## Results
+- Diabetes Prediction 
+![Diabetes](https://github.com/user-attachments/assets/ec83f063-e02c-4b2c-89ff-a0d465878df1)
+
+- Heart Disease Prediction 
+![Heart Disease](https://github.com/user-attachments/assets/d5a08b80-56fb-4ccf-8790-3a14919baac2)
+
